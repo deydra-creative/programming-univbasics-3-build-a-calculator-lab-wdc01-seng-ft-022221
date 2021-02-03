@@ -1,3 +1,5 @@
+
+
 def addition(num1, num2)
 return num1+num2
 end
@@ -17,8 +19,6 @@ end
 def modulo(num1, num2)
 return num2/num1
 end
-
-modulo = division(num2, num1) 
 
 def square_root(num)
 return Math.sqrt(num)
