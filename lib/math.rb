@@ -1,5 +1,3 @@
-modulo = division(num2, num1)
-
 def addition(num1, num2)
 return num1+num2
 end
